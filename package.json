@@ -20,8 +20,14 @@
   },
   "homepage": "https://github.com/Murlykin/Node#readme",
   "dependencies": {
+    "cjs": "^0.0.11",
+    "commander": "^10.0.1",
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "fs.promises": "^0.1.2",
+    "nanoid": "^3.3.4",
+    "path": "^0.12.7",
+    "require-stack": "^1.0.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
